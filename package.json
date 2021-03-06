@@ -1,5 +1,5 @@
 {
-  "name": "stock-market-india",
+  "name": "stock-index",
   "version": "1.0.0",
   "description": "\"An API Library which fetches data from Bombay Stock Exchange and National Stock Exchange and returns data in JSON format.\"",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maanavshah/stock-market-india.git"
+    "url": "git+https://github.com/Abhinav1121/stock-index.git"
   },
   "keywords": [
     "api",
@@ -25,9 +25,9 @@
   "author": "Maanav Shah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maanavshah/stock-market-india/issues"
+    "url": "https://github.com/Abhinav1121/stock-index/issues"
   },
-  "homepage": "https://github.com/maanavshah/stock-market-india#readme",
+  "homepage": "https://github.com/Abhinav1121/stock-index#readme",
   "dependencies": {
     "axios": "^0.18.1",
     "express": "^4.16.4",
