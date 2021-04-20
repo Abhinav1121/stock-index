@@ -1,6 +1,6 @@
 "scripts": {
-     //whatever other scripts
+     
 
      "start": "node app.js",
 
-     //wh
+}
